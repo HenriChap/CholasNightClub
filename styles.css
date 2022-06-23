@@ -85,3 +85,18 @@ footer{
   background-color: black;
   color: white;
 }
+
+@media only screen and (max-width:490px){
+  nav{
+    display: none;
+  }
+  h1{
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (min-width:490px) and (max-width:564px){
+  nav{
+    font-size: 0.75rem;
+  }
+}
