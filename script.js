@@ -1,0 +1,1 @@
+alert("This is just a training site. Unfortunetely, Cholas Night Club doesn't exist :(")
